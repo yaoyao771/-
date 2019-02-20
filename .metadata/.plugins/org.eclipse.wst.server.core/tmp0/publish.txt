@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jan 21 21:47:18 CST 2019
+org.eclipse.jst.jee.server\:com.imooc=C\:\\maven\\apache-tomcat-8.0.53\\webapps\\com.imooc
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\seu\\.m2\\repository\\org\\springframework\\spring-web\\4.0.4.RELEASE\\spring-web-4.0.4.RELEASE.jar=C\:\\maven\\apache-tomcat-8.0.53\\webapps\\com.imooc\\WEB-INF\\lib\\spring-web-4.0.4.RELEASE.jar
